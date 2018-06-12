@@ -1,7 +1,21 @@
-SANDBOX experiments:
-
-install Babel:
-
-npm install --save babel-core
-npm install --save babel-preset-env
-npm install --save babel-preset-react
+EKY SANDBOX
+---
+ 
+Welcome.
+ 
+ 
+ 
+Setup
+---
+ 
+```
+npm install
+```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
